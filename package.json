@@ -1,9 +1,9 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "keep-frontmost",
-  "title": "Keep Frontmost",
-  "description": "Closes All open apps except the frontmost one",
-  "icon": "Icon.png",
+  "name": "single-focus",
+  "title": "Single Focus",
+  "description": "Closes all the open apps except the frontmost one",
+  "icon": "command-icon.png",
   "author": "Mmehdi06",
   "categories": [
     "System"
@@ -12,9 +12,9 @@
   "commands": [
     {
       "name": "index",
-      "title": "Keep Frontmost",
-      "subtitle": "Close All Apps Except Frontmost",
-      "description": "Close All Apps Except Frontmost",
+      "title": "Quit Non-Focused",
+      "subtitle": "Single Focus",
+      "description": "Close All The Open Apps Except Frontmost",
       "mode": "no-view"
     }
   ],

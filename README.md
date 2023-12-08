@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="/assets/Icon.png" height="128">
-  <h1 align="center">Keep Frontmost</h1>
+  <img src="/assets/command_icon.png" height="128">
+  <h1 align="center">Single Focus</h1>
 </p>
 
 ## Description
